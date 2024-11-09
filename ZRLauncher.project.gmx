@@ -13,11 +13,7 @@
     <sound>sound\save_confirm</sound>
     <sound>sound\save_denied</sound>
   </sounds>
-  <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
-    <sprite>sprites\eye</sprite>
-    <sprite>sprites\orb</sprite>
-  </sprites>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
