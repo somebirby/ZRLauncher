@@ -1,0 +1,8 @@
+# Compiled source #
+*.exe
+*.zip
+
+# Extensions folder #
+extensions/
+
+*.txt
