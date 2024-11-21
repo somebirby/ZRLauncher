@@ -38,6 +38,7 @@ When you're done, you can press Save and then Back to go to the main menu, where
 
 ## To-Do List
 For 1.1 
+- Remove leftover Sxxxxx code in sources
 - Use the timer to call for .win deletion instead of the crunky cmd call >.<
 - "Options" -> "Settings"
 - Rename obj_title to something more befitting of its role
