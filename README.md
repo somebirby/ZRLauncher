@@ -37,13 +37,13 @@ When you're done, you can press Save and then Back to go to the main menu, where
 - Complete the setup for the "GameMaker:Studio Windows compiler", and you're done!   
 
 ## To-Do List
-For 0.2  
+For 1.1 
 - Use the timer to call for .win deletion instead of the crunky cmd call >.<
 - "Options" -> "Settings"
 - Rename obj_title to something more befitting of its role
 - Design logic for savefile management  
   
-After:  
+Later:  
 - Add credits
 - Make help menu (through F1 key)  
 - Close after launch setting  
