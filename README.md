@@ -7,7 +7,7 @@ This application DOES NOT patch mods for you.
 
 # WARNING
 Windows Defender and other antivirus have a distrust for old Gamemaker games.  
-As a result, you may get warnings when opening / using the application.  
+As a result, you may get warnings when using the application.  
 If you can provide information / help on this matter, please open an [issue](https://github.com/somebirby/ZRLauncher/issues)  
 
 ## How to use
