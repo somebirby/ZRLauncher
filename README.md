@@ -2,12 +2,12 @@
 This is a simple mod **launcher** for ZeroRanger made in GameMaker 1.4
 *I realise now that it could easily be made into a universal GameMaker launcher... woops*  
 It handles starting the game with different .win files, without need of any manual "copy, paste, rename" business.  
-Compatible with Proton (not yet Deck verified, please give it a try!).  
+Compatible with Proton. 
 This application DOES NOT patch mods for you.  
 
 # WARNING
 Windows Defender and other antivirus have a distrust for old Gamemaker games.  
-The issue is being looked into, but for the time being, nothing can be done as far as I know.  
+As a result, you may get warnings when opening / using the application.
 If you can provide information / help on this matter, please open an [issue](https://github.com/somebirby/ZRLauncher/issues)  
 
 ## How to use
@@ -29,10 +29,10 @@ Navigate to each options, press Confirm, and a file select dialog should appear.
 When you're done, you can press Save and then Back to go to the main menu, where you can launch any mods in your mod folder!  
 
 ## Building
-To build this, you must use GameMaker Studio 1.4.9999    
-Clone the project, and download the following extensions, and add them to the project (I can't distribute them here):  
+- To build this, you must use GameMaker Studio 1.4.9999 (not tested with previous versions)   
+- Clone the project, and download the following extensions, and add them to the project (can't distribute them here):  
 [execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple) / [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) / [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
-Complete the setup for the GameMaker Studio 1 Windows compiler, and you're done!   
+- Complete the setup for the "GameMaker:Studio Windows compiler", and you're done!   
 
 ## To-Do List
 For 0.2  
@@ -61,8 +61,3 @@ After:
 YellowAfterLife for [execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple) and [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) for GameMaker  
 Patych for [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
 [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font) by Riciery Leal  
-  
-As well as...  
-My friends for their support and assistance  
-The GameMaker forum (and general Internet) for its wealth of experience and snippets  
-And of course the SEcord community for all their help and patience!  
