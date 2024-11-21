@@ -7,7 +7,7 @@ This application DOES NOT patch mods for you.
 
 # WARNING
 Windows Defender and other antivirus have a distrust for old Gamemaker games.  
-As a result, you may get warnings when opening / using the application.
+As a result, you may get warnings when opening / using the application.  
 If you can provide information / help on this matter, please open an [issue](https://github.com/somebirby/ZRLauncher/issues)  
 
 ## How to use
@@ -31,33 +31,32 @@ When you're done, you can press Save and then Back to go to the main menu, where
 ## Building
 - To build this, you must use GameMaker Studio 1.4.9999 (not tested with previous versions)   
 - Clone the project, and download the following extensions, and add them to the project (can't distribute them here):  
-  + [execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple)
-  + [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands)
-  + [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
+  + [execute_shell_simple by YAL](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple)
+  + [Window Commands by YAL](https://yellowafterlife.itch.io/gamemaker-window-commands)
+  + [Sandbox killer by Patych](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
 - Complete the setup for the "GameMaker:Studio Windows compiler", and you're done!   
 
 ## To-Do List
 For 0.2  
-- Use the timer to call for .win deletion instead of the crunky cmd call >.<  
+- Use the timer to call for .win deletion instead of the crunky cmd call >.<
+- "Options" -> "Settings"
+- Rename obj_title to something more befitting of its role
 - Design logic for savefile management  
   
 After:  
-- Add credits  
-- Close after launch Option  
+- Add credits
+- Make help menu (through F1 key)  
+- Close after launch setting  
 - Make extra keys (F1, F2, F5) accessible via gamepad (remove the press events and use Step_x, probably in obj_title?)  
 - Adapt window size to screen size / Allow window redimensionning maybe  
-- Handle case of too many mods for the screen (maybe create pages? calculate how many entries can fit the viewport?)  
-- Rework drawGUI code to be more efficient  
+- Handle case of too many mods for the screen (maybe create pages? calculate how many entries can fit the viewport?)    
 - Find a better way to "detect" the game launching  
 - Correct main menu's navigation code (row & col logic being reversed)  
-- Merge all bottom bar logic / draw code to obj_title?  
-- Rename obj_title to something more befitting of its role  
-- Make help menu (through F1 key)  
-- Investigate a drag & drop feature for the mods (drag file in window to add it to the folder then refresh list)  
+- Merge all bottom bar logic / draw code to obj_title?    
+- Investigate a drag & drop feature for the mod screen (drag file in window to add it to the folder then refresh list)  
 - Perhaps transition from execute_shell_simple to [Execute Shell](https://forum.gamemaker.io/index.php?threads/execute-shell--for-windows-macos-and-ubuntu.7145/)  
 - Press buttons with mouse  
-- Change aesthetics of path strings (size, font, color)  
-- "Options" -> "Settings"  
+- Change aesthetics of path strings (size, font, color)   
 
 ## Credits
 YellowAfterLife for [execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple) and [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) for GameMaker  
@@ -65,4 +64,4 @@ Patych for [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox
 [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font) by Riciery Leal
 
 The SEcord community for all their help.
-And of course SE for creating ZeroRanger!  
+And of course System Erasure for creating ZeroRanger!  
