@@ -60,4 +60,7 @@ After:
 ## Credits
 YellowAfterLife for [execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple) and [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) for GameMaker  
 Patych for [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
-[VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font) by Riciery Leal  
+[VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font) by Riciery Leal
+
+The SEcord community for all their help.
+And of course SE for creating ZeroRanger!  
