@@ -15,10 +15,10 @@ If you can provide information / help on this matter, please open an [issue](htt
 - Arrow keys or Controller D-Pad -> Navigation  
 - Enter key or Controller "A" button -> Confirm  
 - Keyboard-only (for now) controls :  
-Esc -> Close the application  
-F2 -> Start vanilla ZeroRanger  
-F3 -> Shortcut to the Options menu  
-F5 -> When on the main menu, refresh the mod list  
+  + Esc -> Close the application  
+  + F2 -> Start vanilla ZeroRanger  
+  + F3 -> Shortcut to the Options menu  
+  + F5 -> When on the main menu, refresh the mod list  
 
 **Instructions**:
 - ZRLauncher can be used from *anywhere* (as long as it isn't in the same folder as any other GameMaker game. aka, put it in it's own folder thank you).  
@@ -31,7 +31,9 @@ When you're done, you can press Save and then Back to go to the main menu, where
 ## Building
 - To build this, you must use GameMaker Studio 1.4.9999 (not tested with previous versions)   
 - Clone the project, and download the following extensions, and add them to the project (can't distribute them here):  
-[execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple) / [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) / [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
+  + [execute_shell_simple](https://yellowafterlife.itch.io/gamemaker-execute-shell-simple)
+  + [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands)
+  + [Sandbox killer](https://marketplace.gamemaker.io/assets/5725/sandbox-killer)  
 - Complete the setup for the "GameMaker:Studio Windows compiler", and you're done!   
 
 ## To-Do List
