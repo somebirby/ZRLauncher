@@ -2,7 +2,7 @@
 ### This application DOES NOT patch mods for you.
 This is a simple mod **launcher** for ZeroRanger made in GameMaker 1.4
 It handles starting the game with different .win files, without need of any manual "copy, paste, rename" business.  
-Compatible with Proton. 
+**Fully compatible with Proton.**
 
 
 # WARNING
