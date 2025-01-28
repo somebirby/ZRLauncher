@@ -1,9 +1,9 @@
 # ZRLauncher
+## This application DOES NOT patch mods for you.
 This is a simple mod **launcher** for ZeroRanger made in GameMaker 1.4
-*I realise now that it could easily be made into a universal GameMaker launcher... woops*  
 It handles starting the game with different .win files, without need of any manual "copy, paste, rename" business.  
 Compatible with Proton. 
-This application DOES NOT patch mods for you.  
+
 
 # WARNING
 Windows Defender and other antivirus have a distrust for old Gamemaker games.  
@@ -22,7 +22,7 @@ If you can provide information / help on this matter, please open an [issue](htt
 
 **Instructions**:
 - ZRLauncher can be used from *anywhere* (as long as it isn't in the same folder as any other GameMaker game. aka, put it in it's own folder thank you).  
-- Beforehand, create a folder for your mods and copy your mods inside. This folder can be located anywhere (**except it cannot be the same one containing ZeroRanger.exe**).  
+- Beforehand, create a folder for your mods and copy your **patched .win files** inside. This folder can be located anywhere (**except it cannot be the same one containing ZeroRanger.exe**).  
 - Double-click the file or start it through Steam (Proton-compatible).  
 - **On First boot**, you will need to fill out the Options menu with the folder containing ZeroRanger.exe, as well as your mod folder.  
 Navigate to each options, press Confirm, and a file select dialog should appear. Navigate to and select the file related to the option (any modded .win file or ZeroRanger.exe).  
@@ -38,7 +38,8 @@ When you're done, you can press Save and then Back to go to the main menu, where
 
 ## To-Do List
 For 0.2  
-- Use the timer to call for .win deletion instead of the crunky cmd call >.<  
+- Use the timer to call for .win deletion instead of the crunky cmd call
+- Improve readability of paths in the options menu
 - Design logic for savefile management  
   
 After:  
